@@ -33,8 +33,9 @@ Discord Botが試合結果を自動表示し、ランキング表をリアルタ
 
 
 ## 協力団体
-- [Royale API](https://royaleapi.com/)  
-[Discuss](https://discuss.royaleapi.com/t/2v2-ladder-with-external-application/6129/7)
+- [Royale API](https://royaleapi.com/)
+
+-----[Discuss](https://discuss.royaleapi.com/t/2v2-ladder-with-external-application/6129/7)
 
 ## 技術
 - Heroku
