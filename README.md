@@ -5,15 +5,25 @@ Clash Royale's virtual 2v2 rank competition
 
 
 # クラロワ 2v2 マルチ
-クラロワ - 競技性が高い戦略ビデオゲーム（ゲームジャンル：RTS）  
-における 2人 vs 2人 のゲームモードの仮想ランク戦を楽しめるコミュニティの作成
+クラロワ - 競技性が高い戦略mobileゲーム（ゲームジャンル：RTS）  
+における 2人 vs 2人 のゲームモードの仮想ランク戦を楽しめるコミュニティの作成  
+
+## 各種リンク
+- ***Homepage:***
+https://sites.google.com/view/clashroyale-2v2-ladder
+
+- ***X (Twitter):***
+https://twitter.com/ClashRoyale_2v2, https://twitter.com/JINBE_CR
+
+- ***YouTube:***
+http://www.youtube.com/@JINBE_CR
 
 ## プロジェクト概要
 クラロワの試合履歴(ログ)はAPIとして吐き出される。そのAPIは外部公開されている。  
 [Clash Royale Developer API](https://developer.clashroyale.com/#/)  
 
-このAPIを用いて、勝敗を自動判定を行うことでランク付けを行う。  
-その結果をDiscord Botで自動表示させる。
+このAPIを用いて、勝敗の自動判定を行うことでランク付けを行う。  
+勝敗結果をDiscord Botで自動表示 かつ ランキング表を自動更新する。
 
 ## 具体的な流れ
 **1. プレイヤー登録**  
