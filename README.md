@@ -42,8 +42,8 @@ http://www.youtube.com/@JINBE_CR
 Discord Botが試合結果を自動表示し、ランキング表をリアルタイムで更新する。  
 
 **詳細**  
-[HomePageの使い方](https://sites.google.com/view/clashroyale-2v2-ladder/usage?authuser=0)  
-[Tutorial Video](https://www.youtube.com/watch?v=6zlPfjQTWtY)  
+- [HomePageの使い方](https://sites.google.com/view/clashroyale-2v2-ladder/usage?authuser=0)  
+- [Tutorial Video](https://www.youtube.com/watch?v=6zlPfjQTWtY)  
 
 ## 協力団体
 - [Royale API](https://royaleapi.com/)
