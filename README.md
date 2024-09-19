@@ -15,6 +15,9 @@ https://sites.google.com/view/clashroyale-2v2-ladder
 - ***X (Twitter):***
 https://twitter.com/ClashRoyale_2v2, https://twitter.com/JINBE_CR
 
+- ***Discord:***
+https://discord.gg/tMkjpP8xsx
+
 - ***YouTube:***
 http://www.youtube.com/@JINBE_CR
 
