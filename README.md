@@ -8,10 +8,9 @@ Clash Royale's virtual 2v2 rank competition
 クラロワ - 競技性が高い戦略mobileゲーム（ゲームジャンル：RTS）  
 における 2人 vs 2人 のゲームモードの仮想ランク戦を楽しめるコミュニティの作成  
 
-## 各種リンク
-- ***Homepage:***
-https://sites.google.com/view/clashroyale-2v2-ladder[English]
-https://sites.google.com/view/clashroyale-2v2-ladder-jp[日本語]
+## ホームページ  
+- https://sites.google.com/view/clashroyale-2v2-ladder [English]  
+- https://sites.google.com/view/clashroyale-2v2-ladder-jp [日本語]
 
 
 ## プロジェクト概要  
