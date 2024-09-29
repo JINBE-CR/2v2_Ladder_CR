@@ -10,16 +10,9 @@ Clash Royale's virtual 2v2 rank competition
 
 ## 各種リンク
 - ***Homepage:***
-https://sites.google.com/view/clashroyale-2v2-ladder
+https://sites.google.com/view/clashroyale-2v2-ladder[English]
+https://sites.google.com/view/clashroyale-2v2-ladder-jp[日本語]
 
-- ***X (Twitter):***
-https://twitter.com/ClashRoyale_2v2, https://twitter.com/JINBE_CR
-
-- ***Discord:***
-https://discord.gg/tMkjpP8xsx
-
-- ***YouTube:***
-http://www.youtube.com/@JINBE_CR
 
 ## プロジェクト概要  
 クラロワの試合履歴(ログ)はAPIとして吐き出される。そのAPIは外部公開されている。  
